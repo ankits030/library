@@ -1,0 +1,9 @@
+#bookform{
+display:none;
+}
+#library-container{ display:grid; grid-template-columns:repeat(auto-fill,200px);
+     gap:15px; margin-top:20px; }
+ .book-card{ border:1px solid black; 
+    padding:10px;
+     border-radius:6px;
+      background:#f3f3f3; }
